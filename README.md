@@ -1,4 +1,5 @@
-<img src="https://qph.cf2.quoracdn.net/main-qimg-10e9e858f1ac5006bc09d5cc5f440478">
+
+<div style= " display: flex; justify-content: center; align-items: center;"> <img src="https://qph.cf2.quoracdn.net/main-qimg-10e9e858f1ac5006bc09d5cc5f440478"> </div>
 <h1>BIO</h1>
 <pr>My name is <i><b>Muhammad Hajouj</b></i> and I'm a software engineer graduate, done my degree in ORT BRAUDE Karmiel.  <br>
 * All my projects will be here.<br>
@@ -6,6 +7,7 @@
     - Love watching football (<b>Manchester United</b> are my favourite team) :(<br>
     - Video games, not so much recently but still i enjoy it every once in a while.<br>
     - editing videos for fun, (have made a bunch of Football edits will probable try and find a website to post them soon). <br>
+    - Fan of Dragon ball. <br> 
 * I also have a love for writing (specifically about football), if You're intrested check my repots <a href="www.medium.com/@m1902p" style="color: red">here.</a> <br>
 </pr>
 
