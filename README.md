@@ -1,6 +1,6 @@
 <div style= "display:flex;justify-content:center;width:100%;"> <img style="width:100%" src="https://qph.cf2.quoracdn.net/main-qimg-10e9e858f1ac5006bc09d5cc5f440478"> </div>
 <h1>Muhammad Hajouj</h1>
-<p style="background-color: gray;  border-radius: 5px; "><b>Software engineer / Writer / Video editor</b></p><br>
+<span style="background-color: gray;  border-radius: 5px; "><b>Software engineer / Writer / Video editor</b></span><br>
 * All my projects will be here.<br>
 * hobbies if it intrests (probably doesn't):<br>
     - Love watching football (<b>Manchester United</b> are my favourite team) :(<br>
