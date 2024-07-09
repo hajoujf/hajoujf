@@ -1,5 +1,5 @@
 <img src="https://qph.cf2.quoracdn.net/main-qimg-10e9e858f1ac5006bc09d5cc5f440478">
-<h1>BIO</h1>
+<h1>#BIO</h1>
 <pr>My name is <i><b>Muhammad Hajouj</b></i> and I'm a software engineer graduate, done my degree in ORT BRAUDE Karmiel.  <br>
 * All my projects will be here.<br>
 * hobbies if it intrests (probably doesn't):<br>
@@ -9,7 +9,7 @@
 * I also have a love for writing (specifically about football), if You're intrested check my repots <a href="www.medium.com/@m1902p" style="color: red">here.</a> <br>
 </pr>
 
-#<b> Languages AND Tools </b>
+<h1> #Languages AND Tools </h1>
 
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
