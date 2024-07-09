@@ -1,13 +1,14 @@
 <div style= "display:flex;justify-content:center;width:100%;"> <img style="width:100%" src="https://qph.cf2.quoracdn.net/main-qimg-10e9e858f1ac5006bc09d5cc5f440478"> </div>
 <h1>Muhammad Hajouj</h1>
 <h4><span style="background: #9B3434;  border-radius: 5px; "><b>Software engineer / Writer / Video editor</b></span></h4> 
-* All my projects will be here.<br>
-* hobbies if it intrests (probably doesn't):<br>
-    - Love watching football (<b>Manchester United</b> are my favourite team) :(<br>
-    - Video games, not so much recently but still i enjoy it every once in a while.<br>
-    - editing videos for fun, (have made a bunch of Football edits will probable try and find a website to post them soon). <br>
-    - Fan of Dragon ball. <br> 
-* I also have a love for writing (specifically about football), if You're intrested check my repots <a href="www.medium.com/@m1902p" style="color:red">here.</a> <br>
+<pr style='size:20px;'>
+    * All my projects will be here.<br>
+    * hobbies if it intrests (probably doesn't):<br>
+        - Love watching football (<b>Manchester United</b> are my favourite team) :(<br>
+        - Video games, not so much recently but still i enjoy it every once in a while.<br>
+        - editing videos for fun, (have made a bunch of Football edits will probable try and find a website to post them soon). <br>
+        - Fan of Dragon ball. <br> 
+    * I also have a love for writing (specifically about football), if You're intrested check my repots <a href="www.medium.com/@m1902p" style="color:red">here.</a> <br>
 </pr>
 
 <h1> Languages AND Tools </h1>
