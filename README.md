@@ -1,5 +1,5 @@
 <div style= "display:flex;justify-content:center;width:100%;"> <img style="width:100%" src="https://qph.cf2.quoracdn.net/main-qimg-10e9e858f1ac5006bc09d5cc5f440478"> </div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h1>Bit About Me</h1>
+<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bit About Me</h1>
 <h4><span style="background: #9B3434;  border-radius: 5px; "><b>Software engineer / Writer / Video editor</b></span></h4> 
 <h6>
     * All my projects will be here.<br><br>
@@ -11,7 +11,7 @@
     * I also have a love for writing (specifically about football), if You're intrested check my repots <a href="www.medium.com/@m1902p" style="color:red">here.</a> <br>
 </h7>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h1> Languages AND Tools </h1>
+<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Languages AND Tools </h1>
 
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
