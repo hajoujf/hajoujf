@@ -7,7 +7,7 @@
     - Video games, not so much recently but still i enjoy it every once in a while.<br>
     - editing videos for fun, (have made a bunch of Football edits will probable try and find a website to post them soon). <br>
     - Fan of Dragon ball. <br> 
-* I also have a love for writing (specifically about football), if You're intrested check my repots <a href="www.medium.com/@m1902p" style="color: red">here.</a> <br>
+* I also have a love for writing (specifically about football), if You're intrested check my repots <a href="www.medium.com/@m1902p" style="color:red">here.</a> <br>
 </pr>
 
 <h1> Languages AND Tools </h1>
