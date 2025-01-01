@@ -4,7 +4,7 @@
 <p style="color:gray">
     * All my projects will be here.<br><br>
     * <b><i>Hobbies if it intrests</i></b> (probably doesn't):<br>
-    &nbsp;&nbsp;- Love watching football (<b>Manchester United</b> are my favourite team) :(<br>
+    &nbsp;&nbsp;- Love watching and writing about football (<b>Manchester United</b> are my favourite team) :(<br>
     &nbsp;&nbsp;- Video games, not so much recently but still i enjoy it every once in a while.<br>
     &nbsp;&nbsp;- Editing videos for fun, (have made a bunch of Football edits will probable try and find a website to post them soon). <br>
     &nbsp;&nbsp;- Fan of Dragon ball. <br> <br>
